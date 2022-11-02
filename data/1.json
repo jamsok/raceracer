@@ -1,0 +1,16 @@
+{
+  "name": "Yezzy",
+  "description": "test nft description",
+  "price": "1000000000000000000",
+  "id": 1,
+  "top_Speed": "220",
+  "RPM": "7000",
+  "FrontSuspension": "4000",
+  "MaxTorque": "5000",
+  "Brakes": "0.35",
+  "image": "https://res.cloudinary.com/djtiaeptm/image/upload/v1653856586/cld-sample.jpg",
+  "attributes": [
+    { "trait_type": "isTestNFT", "value": true },
+    { "trait_type": "isMinted", "value": false }
+  ]
+}

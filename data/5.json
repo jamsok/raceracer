@@ -1,0 +1,11 @@
+{
+  "name": "test nft5",
+  "description": "test nft description",
+  "price": "3000000000000000000",
+  "id": 5,
+  "image": "",
+  "attributes": [
+    { "trait_type": "isTestNFT", "value": true },
+    { "trait_type": "isMinted", "value": false }
+  ]
+}
